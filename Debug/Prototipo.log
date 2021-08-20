@@ -1,0 +1,11 @@
+﻿  Prototipo.cpp
+C:\Users\Martín\Desktop\UADE\Videojuegos\Prototipo\Prototipo.cpp(45,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'InputState' cuando no hay ninguna variable declarada
+C:\Users\Martín\Desktop\UADE\Videojuegos\Prototipo\Prototipo.cpp(52,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'Coordinates' cuando no hay ninguna variable declarada
+C:\Users\Martín\Desktop\UADE\Videojuegos\Prototipo\Prototipo.cpp(147,29): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Martín\Desktop\UADE\Videojuegos\Prototipo\Prototipo.cpp(157,31): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Martín\Desktop\UADE\Videojuegos\Prototipo\Prototipo.cpp(185,51): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Martín\Desktop\UADE\Videojuegos\Prototipo\Prototipo.cpp(188,51): warning C4244: '-=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Martín\Desktop\UADE\Videojuegos\Prototipo\Prototipo.cpp(307,25): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Martín\Desktop\UADE\Videojuegos\Prototipo\Prototipo.cpp(308,34): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Martín\Desktop\UADE\Videojuegos\Prototipo\Prototipo.cpp(315,24): warning C4244: 'argumento': conversión de 'float' a 'Uint32'; posible pérdida de datos
+  Prototipo.vcxproj -> C:\Users\Martín\Desktop\UADE\Videojuegos\Prototipo\Debug\Prototipo.exe
