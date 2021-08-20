@@ -192,6 +192,8 @@ void updateGame(float deltaTimeInSeconds) {
 }
 
 
+// Con estas dos funciones se pueden modificar las teclas de movimiento y disparo
+
 void onKeyUp(int keyCode) {
 
     if (keyCode == SDLK_SPACE)
@@ -202,7 +204,6 @@ void onKeyUp(int keyCode) {
     else if (keyCode == SDLK_RIGHT)
         inputState.right = false;
 }
-
 
 void onKeyDown(int keyCode) {
 
